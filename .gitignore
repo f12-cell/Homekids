@@ -1,0 +1,17 @@
+.env
+.env.example
+__pycache__/
+*.pyc
+*.pyo
+db/
+*.db
+*.sqlite
+node_modules/
+build/
+.gradle/
+*.apk
+*.aab
+local.properties
+*.log
+logs/
+graphify-out/
